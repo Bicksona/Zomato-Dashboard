@@ -54,7 +54,7 @@ The goal of this dashboard is to help stakeholders understand business performan
 
 ## 📷 Dashboard Preview
 
-![Zomato Dashboard Screenshot](./Screenshot.png)
+![Zomato Dashboard Screenshot](Zomato-Dashboard.png)
 
 
 ---
